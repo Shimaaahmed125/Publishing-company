@@ -160,7 +160,8 @@ header .all .form {
 header .all .form .input {
   border-color: transparent;
   background-color: transparent;
-  font-size: 14px;
+  font-size: 18px;
+  outline: none;
 }
 .all .form ::after {
   content: "\f002";
